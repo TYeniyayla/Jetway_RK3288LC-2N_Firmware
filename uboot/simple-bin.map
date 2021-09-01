@@ -1,0 +1,4 @@
+ImagePos    Offset      Size  Name
+00000000  00000000  0087a414  main-section
+00000000   00000000  0001079b  blob
+007f8000   007f8000  00082414  u-boot-img

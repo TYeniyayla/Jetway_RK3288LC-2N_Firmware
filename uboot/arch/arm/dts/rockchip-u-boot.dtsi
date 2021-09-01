@@ -11,7 +11,8 @@
 	};
 };
 
-#ifdef CONFIG_SPL
+//#ifdef CONFIG_SPL Buralar ekliydi ama kapattım -TY-
+
 &binman {
 	simple-bin {
 		filename = "u-boot-rockchip.bin";
@@ -26,4 +27,5 @@
 		};
 	};
 };
-#endif
+
+//#endif -TY-
